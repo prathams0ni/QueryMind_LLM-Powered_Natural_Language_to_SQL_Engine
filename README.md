@@ -418,3 +418,5 @@ it represents a practical implementation of **schema-aware AI reasoning, secure 
 > Turning databases into intelligent, conversational systems — one query at a time.
 
 ⭐ If you found this project interesting, consider giving it a star and connecting!
+
+---
