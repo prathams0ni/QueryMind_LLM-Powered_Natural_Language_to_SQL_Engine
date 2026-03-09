@@ -1,5 +1,7 @@
 # 🧠 QueryMind: LLM-Powered Natural Language to SQL Engine
 
+---
+
 ## 🚀 Project Overview
 
 > QueryMind is a production-style Natural Language to SQL engine that transforms human language into secure, executable SQL queries using a locally hosted Large Language Model (Mistral via Ollama).
